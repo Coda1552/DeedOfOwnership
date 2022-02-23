@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "coda.deedofownership.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "deedofownership.refmap.json",
+  "mixins": [
+    "GuiMixin"
+  ],
+  "client": [
+  ],
+  "minVersion": "0.8"
+}
